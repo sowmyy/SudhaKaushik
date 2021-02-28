@@ -1,2 +1,2 @@
-# Sudha-Kaushik
-Track your Expenses!
+# SudhaKaushik
+Wedding Blog of couple Sudha & Kaushik
